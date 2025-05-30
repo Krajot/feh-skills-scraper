@@ -1,0 +1,281 @@
+Icon,Name,Description,SP,Exclusive
+,Armored Boots,"At start of turn, if unit's HP = 100%, unit can move 1 extra space. (That turn only. Does not stack.)",100,No
+,Initiate Seal Atk 1,Grants Atk+1.,30,No
+,Initiate Seal Atk 2,Grants Atk+2.,60,No
+,Initiate Seal Atk 3,Grants Atk+3.,120,No
+,Beast,Removes the condition to transform.,240,No
+,Initiate Seal Def 1,Grants Def+1.,30,No
+,Initiate Seal Def 2,Grants Def+2.,60,No
+,Initiate Seal Def 3,Grants Def+3.,120,No
+,Deflect Magic 1,"If unit receives consecutive attacks and foe uses magic, reduces damage from foe's second attack onward by 30%.",50,No
+,Deflect Magic 2,"If unit receives consecutive attacks and foe uses magic, reduces damage from foe's second attack onward by 50%.",100,No
+,Deflect Magic 3,"If unit receives consecutive attacks and foe uses magic, reduces damage from foe's second attack onward by 80%.",200,No
+,Deflect Melee 1,"If unit receives consecutive attacks and foe uses a sword, lance, or axe, reduces damage from foe's second attack onward by 30%.",50,No
+,Deflect Melee 2,"If unit receives consecutive attacks and foe uses a sword, lance, or axe, reduces damage from foe's second attack onward by 50%.",100,No
+,Deflect Melee 3,"If unit receives consecutive attacks and foe uses a sword, lance, or axe, reduces damage from foe's second attack onward by 80%.",200,No
+,Deflect Missile 1,"If unit receives consecutive attacks and foe uses bow or dagger, reduces damage from foe's second attack onward by 30%.",50,No
+,Deflect Missile 2,"If unit receives consecutive attacks and foe uses bow or dagger, reduces damage from foe's second attack onward by 50%.",100,No
+,Deflect Missile 3,"If unit receives consecutive attacks and foe uses bow or dagger, reduces damage from foe's second attack onward by 80%.",200,No
+,Dist. Counter (D),Unit can counterattack regardless of foe's range.,300,No
+,Dist. Counter (M),Unit can counterattack regardless of foe's range.,300,No
+,Hardy Bearing 1,"Disables unit's skills that change attack priority.At start of combat, if unit's HP = 100%, disables foe's skills that change attack priority.",50,No
+,Hardy Bearing 2,"Disables unit's skills that change attack priority. At start of combat, if unit's HP ≥ 50%, disables foe's skills that change attack priority.",100,No
+,Hardy Bearing 3,Disables unit's and foe's skills that change attack priority.,200,No
+,Initiate Seal HP 1,Grants HP+3.,40,No
+,Initiate Seal HP 2,Grants HP+4.,80,No
+,Initiate Seal HP 3,Grants HP+5.,160,No
+,Phantom Res 1,"If a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +5.",50,No
+,Phantom Res 2,"If a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +8.",100,No
+,Phantom Res 3,"If a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +10.",200,No
+,Phantom Spd 1,"If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +5.",50,No
+,Phantom Spd 2,"If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +8.",100,No
+,Phantom Spd 3,"If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +10.",200,No
+,Quickened Pulse,"At the start of turn 1, grants Special cooldown count-1.",100,No
+,Initiate Seal Res 1,Grants Res+1.,30,No
+,Initiate Seal Res 2,Grants Res+2.,60,No
+,Initiate Seal Res 3,Grants Res+3.,120,No
+,Initiate Seal Spd 1,Grants Spd+1.,30,No
+,Initiate Seal Spd 2,Grants Spd+2.,60,No
+,Initiate Seal Spd 3,Grants Spd+3.,120,No
+,Squad Ace A 1,Grants HP+3.,40,No
+,Squad Ace F 1,Grants HP+3.,40,No
+,Squad Ace K 1,Grants HP+3.,40,No
+,Squad Ace P 1,Grants HP+3.,40,No
+,Squad Ace U 1,Grants HP+3.,40,No
+,Squad Ace Z 1,Grants HP+3.,40,No
+,Squad Ace A 2,Grants HP+4.,80,No
+,Squad Ace F 2,Grants HP+4.,80,No
+,Squad Ace K 2,Grants HP+4.,80,No
+,Squad Ace P 2,Grants HP+4.,80,No
+,Squad Ace U 2,Grants HP+4.,80,No
+,Squad Ace Z 2,Grants HP+4.,80,No
+,Squad Ace A 3,Grants HP+5.,160,No
+,Squad Ace F 3,Grants HP+5.,160,No
+,Squad Ace K 3,Grants HP+5.,160,No
+,Squad Ace P 3,Grants HP+5.,160,No
+,Squad Ace U 3,Grants HP+5.,160,No
+,Squad Ace Z 3,Grants HP+5.,160,No
+,Squad Ace AE 1,"Grants HP+3, Atk+1.",100,No
+,Squad Ace AO 1,"Grants HP+3, Atk+1.",100,No
+,Squad Ace AY 1,"Grants HP+3, Atk+1.",100,No
+,Squad Ace BI 1,"Grants HP+3, Atk+1.",100,No
+,Squad Ace AE 2,"Grants HP+4, Atk+2.",200,No
+,Squad Ace AO 2,"Grants HP+4, Atk+2.",200,No
+,Squad Ace AY 2,"Grants HP+4, Atk+2.",200,No
+,Squad Ace BI 2,"Grants HP+4, Atk+2.",200,No
+,Squad Ace AF 1,"Grants HP+3, Spd+1.",100,No
+,Squad Ace AP 1,"Grants HP+3, Spd+1.",100,No
+,Squad Ace AZ 1,"Grants HP+3, Spd+1.",100,No
+,Squad Ace BJ 1,"Grants HP+3, Spd+1.",100,No
+,Squad Ace AF 2,"Grants HP+4, Spd+2.",200,No
+,Squad Ace AP 2,"Grants HP+4, Spd+2.",200,No
+,Squad Ace AZ 2,"Grants HP+4, Spd+2.",200,No
+,Squad Ace BJ 2,"Grants HP+4, Spd+2.",200,No
+,Squad Ace AG 1,"Grants HP+3, Def+1.",100,No
+,Squad Ace AQ 1,"Grants HP+3, Def+1.",100,No
+,Squad Ace BA 1,"Grants HP+3, Def+1.",100,No
+,Squad Ace BK 1,"Grants HP+3, Def+1.",100,No
+,Squad Ace AG 2,"Grants HP+4, Def+2.",200,No
+,Squad Ace AQ 2,"Grants HP+4, Def+2.",200,No
+,Squad Ace BA 2,"Grants HP+4, Def+2.",200,No
+,Squad Ace BK 2,"Grants HP+4, Def+2.",200,No
+,Squad Ace AH 1,"Grants HP+3, Res+1.",100,No
+,Squad Ace AR 1,"Grants HP+3, Res+1.",100,No
+,Squad Ace BB 1,"Grants HP+3, Res+1.",100,No
+,Squad Ace BL 1,"Grants HP+3, Res+1.",100,No
+,Squad Ace AH 2,"Grants HP+4, Res+2.",200,No
+,Squad Ace AR 2,"Grants HP+4, Res+2.",200,No
+,Squad Ace BB 2,"Grants HP+4, Res+2.",200,No
+,Squad Ace BL 2,"Grants HP+4, Res+2.",200,No
+,Squad Ace AI 1,Grants Atk/Spd+1.,80,No
+,Squad Ace AS 1,Grants Atk/Spd+1.,80,No
+,Squad Ace BC 1,Grants Atk/Spd+1.,80,No
+,Squad Ace BM 1,Grants Atk/Spd+1.,80,No
+,Squad Ace AI 2,Grants Atk/Spd+2.,160,No
+,Squad Ace AS 2,Grants Atk/Spd+2.,160,No
+,Squad Ace BC 2,Grants Atk/Spd+2.,160,No
+,Squad Ace BM 2,Grants Atk/Spd+2.,160,No
+,Squad Ace AJ 1,Grants Atk/Def+1.,80,No
+,Squad Ace AT 1,Grants Atk/Def+1.,80,No
+,Squad Ace BD 1,Grants Atk/Def+1.,80,No
+,Squad Ace BN 1,Grants Atk/Def+1.,80,No
+,Squad Ace AJ 2,Grants Atk/Def+2.,160,No
+,Squad Ace AT 2,Grants Atk/Def+2.,160,No
+,Squad Ace BD 2,Grants Atk/Def+2.,160,No
+,Squad Ace BN 2,Grants Atk/Def+2.,160,No
+,Squad Ace AK 1,Grants Atk/Res+1.,80,No
+,Squad Ace AU 1,Grants Atk/Res+1.,80,No
+,Squad Ace BE 1,Grants Atk/Res+1.,80,No
+,Squad Ace BO 1,Grants Atk/Res+1.,80,No
+,Squad Ace AK 2,Grants Atk/Res+2.,160,No
+,Squad Ace AU 2,Grants Atk/Res+2.,160,No
+,Squad Ace BE 2,Grants Atk/Res+2.,160,No
+,Squad Ace BO 2,Grants Atk/Res+2.,160,No
+,Squad Ace AL 1,Grants Spd/Def+1.,80,No
+,Squad Ace AV 1,Grants Spd/Def+1.,80,No
+,Squad Ace BF 1,Grants Spd/Def+1.,80,No
+,Squad Ace BP 1,Grants Spd/Def+1.,80,No
+,Squad Ace AL 2,Grants Spd/Def+2.,160,No
+,Squad Ace AV 2,Grants Spd/Def+2.,160,No
+,Squad Ace BF 2,Grants Spd/Def+2.,160,No
+,Squad Ace BP 2,Grants Spd/Def+2.,160,No
+,Squad Ace AM 1,Grants Spd/Res+1.,80,No
+,Squad Ace AW 1,Grants Spd/Res+1.,80,No
+,Squad Ace BG 1,Grants Spd/Res+1.,80,No
+,Squad Ace BQ 1,Grants Spd/Res+1.,80,No
+,Squad Ace AM 2,Grants Spd/Res+2.,160,No
+,Squad Ace AW 2,Grants Spd/Res+2.,160,No
+,Squad Ace BG 2,Grants Spd/Res+2.,160,No
+,Squad Ace BQ 2,Grants Spd/Res+2.,160,No
+,Squad Ace AN 1,Grants Def/Res+1.,80,No
+,Squad Ace AX 1,Grants Def/Res+1.,80,No
+,Squad Ace BH 1,Grants Def/Res+1.,80,No
+,Squad Ace BR 1,Grants Def/Res+1.,80,No
+,Squad Ace AN 2,Grants Def/Res+2.,160,No
+,Squad Ace AX 2,Grants Def/Res+2.,160,No
+,Squad Ace BH 2,Grants Def/Res+2.,160,No
+,Squad Ace BR 2,Grants Def/Res+2.,160,No
+,Squad Ace AA 1,Grants Def+1.,30,No
+,Squad Ace B 1,Grants Def+1.,30,No
+,Squad Ace G 1,Grants Def+1.,30,No
+,Squad Ace L 1,Grants Def+1.,30,No
+,Squad Ace Q 1,Grants Def+1.,30,No
+,Squad Ace V 1,Grants Def+1.,30,No
+,Squad Ace AA 2,Grants Def+2.,60,No
+,Squad Ace B 2,Grants Def+2.,60,No
+,Squad Ace G 2,Grants Def+2.,60,No
+,Squad Ace L 2,Grants Def+2.,60,No
+,Squad Ace Q 2,Grants Def+2.,60,No
+,Squad Ace V 2,Grants Def+2.,60,No
+,Squad Ace AA 3,Grants Def+3.,120,No
+,Squad Ace B 3,Grants Def+3.,120,No
+,Squad Ace G 3,Grants Def+3.,120,No
+,Squad Ace L 3,Grants Def+3.,120,No
+,Squad Ace Q 3,Grants Def+3.,120,No
+,Squad Ace V 3,Grants Def+3.,120,No
+,Squad Ace BS 1,"Grants HP+3, Atk/Spd+1.",120,No
+,Squad Ace CC 1,"Grants HP+3, Atk/Spd+1.",120,No
+,Squad Ace CM 1,"Grants HP+3, Atk/Spd+1.",120,No
+,Squad Ace BS 2,"Grants HP+4, Atk/Spd+2.",180,No
+,Squad Ace CC 2,"Grants HP+4, Atk/Spd+2.",180,No
+,Squad Ace CM 2,"Grants HP+4, Atk/Spd+2.",180,No
+,Squad Ace BS 3,"Grants HP+5, Atk/Spd+3.",240,No
+,Squad Ace CC 3,"Grants HP+5, Atk/Spd+3.",240,No
+,Squad Ace CM 3,"Grants HP+5, Atk/Spd+3.",240,No
+,Squad Ace BT 1,"Grants HP+3, Atk/Def+1.",120,No
+,Squad Ace CD 1,"Grants HP+3, Atk/Def+1.",120,No
+,Squad Ace CN 1,"Grants HP+3, Atk/Def+1.",120,No
+,Squad Ace BT 2,"Grants HP+4, Atk/Def+2.",180,No
+,Squad Ace CD 2,"Grants HP+4, Atk/Def+2.",180,No
+,Squad Ace CN 2,"Grants HP+4, Atk/Def+2.",180,No
+,Squad Ace BT 3,"Grants HP+5, Atk/Def+3.",240,No
+,Squad Ace CD 3,"Grants HP+5, Atk/Def+3.",240,No
+,Squad Ace CN 3,"Grants HP+5, Atk/Def+3.",240,No
+,Squad Ace BU 1,"Grants HP+3, Atk/Res+1.",120,No
+,Squad Ace CE 1,"Grants HP+3, Atk/Res+1.",120,No
+,Squad Ace CO 1,"Grants HP+3, Atk/Res+1.",120,No
+,Squad Ace BU 2,"Grants HP+4, Atk/Res+2.",180,No
+,Squad Ace CE 2,"Grants HP+4, Atk/Res+2.",180,No
+,Squad Ace CO 2,"Grants HP+4, Atk/Res+2.",180,No
+,Squad Ace BU 3,"Grants HP+5, Atk/Res+3.",240,No
+,Squad Ace CE 3,"Grants HP+5, Atk/Res+3.",240,No
+,Squad Ace CO 3,"Grants HP+5, Atk/Res+3.",240,No
+,Squad Ace BV 1,"Grants HP+3, Spd/Def+1.",120,No
+,Squad Ace CF 1,"Grants HP+3, Spd/Def+1.",120,No
+,Squad Ace CP 1,"Grants HP+3, Spd/Def+1.",120,No
+,Squad Ace BV 2,"Grants HP+4, Spd/Def+2.",180,No
+,Squad Ace CF 2,"Grants HP+4, Spd/Def+2.",180,No
+,Squad Ace CP 2,"Grants HP+4, Spd/Def+2.",180,No
+,Squad Ace BV 3,"Grants HP+5, Spd/Def+3.",240,No
+,Squad Ace CF 3,"Grants HP+5, Spd/Def+3.",240,No
+,Squad Ace CP 3,"Grants HP+5, Spd/Def+3.",240,No
+,Squad Ace BW 1,"Grants HP+3, Spd/Res+1.",120,No
+,Squad Ace CG 1,"Grants HP+3, Spd/Res+1.",120,No
+,Squad Ace BW 2,"Grants HP+4, Spd/Res+2.",180,No
+,Squad Ace CG 2,"Grants HP+4, Spd/Res+2.",180,No
+,Squad Ace BW 3,"Grants HP+5, Spd/Res+3.",240,No
+,Squad Ace CG 3,"Grants HP+5, Spd/Res+3.",240,No
+,Squad Ace BX 1,"Grants HP+3, Def/Res+1.",120,No
+,Squad Ace CH 1,"Grants HP+3, Def/Res+1.",120,No
+,Squad Ace BX 2,"Grants HP+4, Def/Res+2.",180,No
+,Squad Ace CH 2,"Grants HP+4, Def/Res+2.",180,No
+,Squad Ace BX 3,"Grants HP+5, Def/Res+3.",240,No
+,Squad Ace CH 3,"Grants HP+5, Def/Res+3.",240,No
+,Squad Ace BY 1,Grants Atk/Spd/Def+1.,120,No
+,Squad Ace CI 1,Grants Atk/Spd/Def+1.,120,No
+,Squad Ace BY 2,Grants Atk/Spd/Def+2.,180,No
+,Squad Ace CI 2,Grants Atk/Spd/Def+2.,180,No
+,Squad Ace BY 3,Grants Atk/Spd/Def+3.,240,No
+,Squad Ace CI 3,Grants Atk/Spd/Def+3.,240,No
+,Squad Ace BZ 1,Grants Atk/Spd/Res+1.,120,No
+,Squad Ace CJ 1,Grants Atk/Spd/Res+1.,120,No
+,Squad Ace BZ 2,Grants Atk/Spd/Res+2.,180,No
+,Squad Ace CJ 2,Grants Atk/Spd/Res+2.,180,No
+,Squad Ace BZ 3,Grants Atk/Spd/Res+3.,240,No
+,Squad Ace CJ 3,Grants Atk/Spd/Res+3.,240,No
+,Squad Ace AB 1,Grants Res+1.,30,No
+,Squad Ace C 1,Grants Res+1.,30,No
+,Squad Ace H 1,Grants Res+1.,30,No
+,Squad Ace M 1,Grants Res+1.,30,No
+,Squad Ace R 1,Grants Res+1.,30,No
+,Squad Ace W 1,Grants Res+1.,30,No
+,Squad Ace AB 2,Grants Res+2.,60,No
+,Squad Ace C 2,Grants Res+2.,60,No
+,Squad Ace H 2,Grants Res+2.,60,No
+,Squad Ace M 2,Grants Res+2.,60,No
+,Squad Ace R 2,Grants Res+2.,60,No
+,Squad Ace W 2,Grants Res+2.,60,No
+,Squad Ace AB 3,Grants Res+3.,120,No
+,Squad Ace C 3,Grants Res+3.,120,No
+,Squad Ace H 3,Grants Res+3.,120,No
+,Squad Ace M 3,Grants Res+3.,120,No
+,Squad Ace R 3,Grants Res+3.,120,No
+,Squad Ace W 3,Grants Res+3.,120,No
+,Squad Ace CA 1,Grants Atk/Def/Res+1.,120,No
+,Squad Ace CK 1,Grants Atk/Def/Res+1.,120,No
+,Squad Ace CA 2,Grants Atk/Def/Res+2.,180,No
+,Squad Ace CK 2,Grants Atk/Def/Res+2.,180,No
+,Squad Ace CA 3,Grants Atk/Def/Res+3.,240,No
+,Squad Ace CK 3,Grants Atk/Def/Res+3.,240,No
+,Squad Ace CB 1,Grants Spd/Def/Res+1.,120,No
+,Squad Ace CL 1,Grants Spd/Def/Res+1.,120,No
+,Squad Ace CB 2,Grants Spd/Def/Res+2.,180,No
+,Squad Ace CL 2,Grants Spd/Def/Res+2.,180,No
+,Squad Ace CB 3,Grants Spd/Def/Res+3.,240,No
+,Squad Ace CL 3,Grants Spd/Def/Res+3.,240,No
+,Squad Ace AC 1,Grants Spd+1.,30,No
+,Squad Ace D 1,Grants Spd+1.,30,No
+,Squad Ace I 1,Grants Spd+1.,30,No
+,Squad Ace N 1,Grants Spd+1.,30,No
+,Squad Ace S 1,Grants Spd+1.,30,No
+,Squad Ace X 1,Grants Spd+1.,30,No
+,Squad Ace AC 2,Grants Spd+2.,60,No
+,Squad Ace D 2,Grants Spd+2.,60,No
+,Squad Ace I 2,Grants Spd+2.,60,No
+,Squad Ace N 2,Grants Spd+2.,60,No
+,Squad Ace S 2,Grants Spd+2.,60,No
+,Squad Ace X 2,Grants Spd+2.,60,No
+,Squad Ace AC 3,Grants Spd+3.,120,No
+,Squad Ace D 3,Grants Spd+3.,120,No
+,Squad Ace I 3,Grants Spd+3.,120,No
+,Squad Ace N 3,Grants Spd+3.,120,No
+,Squad Ace S 3,Grants Spd+3.,120,No
+,Squad Ace X 3,Grants Spd+3.,120,No
+,Squad Ace AD 1,Grants Atk+1.,30,No
+,Squad Ace E 1,Grants Atk+1.,30,No
+,Squad Ace J 1,Grants Atk+1.,30,No
+,Squad Ace O 1,Grants Atk+1.,30,No
+,Squad Ace T 1,Grants Atk+1.,30,No
+,Squad Ace Y 1,Grants Atk+1.,30,No
+,Squad Ace AD 2,Grants Atk+2.,60,No
+,Squad Ace E 2,Grants Atk+2.,60,No
+,Squad Ace J 2,Grants Atk+2.,60,No
+,Squad Ace O 2,Grants Atk+2.,60,No
+,Squad Ace T 2,Grants Atk+2.,60,No
+,Squad Ace Y 2,Grants Atk+2.,60,No
+,Squad Ace AD 3,Grants Atk+3.,120,No
+,Squad Ace E 3,Grants Atk+3.,120,No
+,Squad Ace J 3,Grants Atk+3.,120,No
+,Squad Ace O 3,Grants Atk+3.,120,No
+,Squad Ace T 3,Grants Atk+3.,120,No
+,Squad Ace Y 3,Grants Atk+3.,120,No
